@@ -4,7 +4,7 @@ import mysql.connector
 def createDbConnection():
     global mydb
     mydb = mysql.connector.connect(
-        host="localhost",
+       host="localhost",
         user="root",
         password="root",
         database="pydb"
