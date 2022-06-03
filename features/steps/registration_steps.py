@@ -54,5 +54,5 @@ def step_impl(context, password):
 def step_impl(context):
     context.reg.submitForm()
     log.logger.info("********Inside Selected Car Test*************")
-    assert False
+    # assert False
     time.sleep(3)
