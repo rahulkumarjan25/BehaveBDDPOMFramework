@@ -1,0 +1,162 @@
+2022-05-31 17:04:18,695 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Rahul Arora
+2022-05-31 17:04:18,811 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711111558
+2022-05-31 17:04:18,918 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :trainer@way2automation.com
+2022-05-31 17:04:18,969 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: India
+2022-05-31 17:04:19,040 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Delhi
+2022-05-31 17:04:19,127 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :rahularora1985
+2022-05-31 17:04:19,206 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :asdfsdfdf
+2022-05-31 17:04:19,290 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 17:04:28,029 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Raman Arora
+2022-05-31 17:04:28,185 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711911558
+2022-05-31 17:04:28,329 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :java@way2automation.com
+2022-05-31 17:04:30,640 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: Germany
+2022-05-31 17:04:30,741 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Berlin
+2022-05-31 17:04:30,825 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :ramanarora1986
+2022-05-31 17:04:30,904 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :werwerwer
+2022-05-31 17:04:30,973 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 17:24:42,633 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Rahul Arora
+2022-05-31 17:24:42,898 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711111558
+2022-05-31 17:24:43,028 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :trainer@way2automation.com
+2022-05-31 17:24:43,082 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: India
+2022-05-31 17:24:43,157 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Delhi
+2022-05-31 17:24:43,327 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :rahularora1985
+2022-05-31 17:24:43,418 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :asdfsdfdf
+2022-05-31 17:24:43,488 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 17:24:52,708 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Raman Arora
+2022-05-31 17:24:52,864 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711911558
+2022-05-31 17:24:53,027 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :java@way2automation.com
+2022-05-31 17:24:55,363 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: Germany
+2022-05-31 17:24:55,472 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Berlin
+2022-05-31 17:24:55,563 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :ramanarora1986
+2022-05-31 17:24:55,647 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :werwerwer
+2022-05-31 17:24:55,717 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 17:44:42,802 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Rahul Arora
+2022-05-31 17:44:43,006 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711111558
+2022-05-31 17:44:43,130 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :trainer@way2automation.com
+2022-05-31 17:44:43,191 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: India
+2022-05-31 17:44:43,271 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Delhi
+2022-05-31 17:44:43,364 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :rahularora1985
+2022-05-31 17:44:43,453 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :asdfsdfdf
+2022-05-31 17:44:43,545 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 17:44:52,437 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Raman Arora
+2022-05-31 17:44:52,545 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711911558
+2022-05-31 17:44:52,685 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :java@way2automation.com
+2022-05-31 17:44:55,840 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: Germany
+2022-05-31 17:44:55,948 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Berlin
+2022-05-31 17:44:56,034 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :ramanarora1986
+2022-05-31 17:44:56,136 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :werwerwer
+2022-05-31 17:44:56,206 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 18:05:46,752 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Rahul Arora
+2022-05-31 18:05:47,045 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711111558
+2022-05-31 18:05:47,151 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :trainer@way2automation.com
+2022-05-31 18:05:47,202 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: India
+2022-05-31 18:05:47,299 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Delhi
+2022-05-31 18:05:47,472 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :rahularora1985
+2022-05-31 18:05:47,553 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :asdfsdfdf
+2022-05-31 18:05:47,625 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 18:05:54,469 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Raman Arora
+2022-05-31 18:05:54,623 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711911558
+2022-05-31 18:05:54,881 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :java@way2automation.com
+2022-05-31 18:05:56,993 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: Germany
+2022-05-31 18:05:57,073 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Berlin
+2022-05-31 18:05:57,163 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :ramanarora1986
+2022-05-31 18:05:57,245 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :werwerwer
+2022-05-31 18:05:57,317 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 18:07:58,606 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Rahul Arora
+2022-05-31 18:07:58,998 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711111558
+2022-05-31 18:07:59,332 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :trainer@way2automation.com
+2022-05-31 18:07:59,402 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: India
+2022-05-31 18:07:59,482 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Delhi
+2022-05-31 18:07:59,577 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :rahularora1985
+2022-05-31 18:07:59,660 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :asdfsdfdf
+2022-05-31 18:07:59,751 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 18:08:05,264 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Raman Arora
+2022-05-31 18:08:05,417 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711911558
+2022-05-31 18:08:05,632 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :java@way2automation.com
+2022-05-31 18:08:07,809 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: Germany
+2022-05-31 18:08:07,886 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Berlin
+2022-05-31 18:08:07,974 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :ramanarora1986
+2022-05-31 18:08:08,053 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :werwerwer
+2022-05-31 18:08:08,141 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 18:15:15,140 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Rahul Arora
+2022-05-31 18:15:15,228 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711111558
+2022-05-31 18:15:15,384 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :trainer@way2automation.com
+2022-05-31 18:15:15,462 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: India
+2022-05-31 18:15:15,551 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Delhi
+2022-05-31 18:15:15,641 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :rahularora1985
+2022-05-31 18:15:15,726 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :asdfsdfdf
+2022-05-31 18:15:15,808 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 18:15:22,258 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Raman Arora
+2022-05-31 18:15:22,355 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711911558
+2022-05-31 18:15:22,542 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :java@way2automation.com
+2022-05-31 18:15:24,662 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: Germany
+2022-05-31 18:15:24,742 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Berlin
+2022-05-31 18:15:24,830 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :ramanarora1986
+2022-05-31 18:15:24,908 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :werwerwer
+2022-05-31 18:15:24,981 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 18:16:41,815 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Rahul Arora
+2022-05-31 18:16:41,923 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711111558
+2022-05-31 18:16:42,040 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :trainer@way2automation.com
+2022-05-31 18:16:42,093 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: India
+2022-05-31 18:16:42,174 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Delhi
+2022-05-31 18:16:42,271 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :rahularora1985
+2022-05-31 18:16:42,367 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :asdfsdfdf
+2022-05-31 18:16:42,451 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 18:16:48,866 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Raman Arora
+2022-05-31 18:16:48,969 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711911558
+2022-05-31 18:16:49,123 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :java@way2automation.com
+2022-05-31 18:16:51,223 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: Germany
+2022-05-31 18:16:51,321 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Berlin
+2022-05-31 18:16:51,433 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :ramanarora1986
+2022-05-31 18:16:51,528 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :werwerwer
+2022-05-31 18:16:51,635 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 18:20:28,678 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Rahul Arora
+2022-05-31 18:20:29,020 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711111558
+2022-05-31 18:20:29,296 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :trainer@way2automation.com
+2022-05-31 18:20:29,394 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: India
+2022-05-31 18:20:29,467 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Delhi
+2022-05-31 18:20:29,562 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :rahularora1985
+2022-05-31 18:20:29,717 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :asdfsdfdf
+2022-05-31 18:20:29,789 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 18:20:36,169 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Raman Arora
+2022-05-31 18:20:36,263 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711911558
+2022-05-31 18:20:36,426 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :java@way2automation.com
+2022-05-31 18:20:38,526 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: Germany
+2022-05-31 18:20:38,603 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Berlin
+2022-05-31 18:20:38,696 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :ramanarora1986
+2022-05-31 18:20:38,776 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :werwerwer
+2022-05-31 18:20:38,846 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 18:22:38,678 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Rahul Arora
+2022-05-31 18:22:38,784 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711111558
+2022-05-31 18:22:38,933 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :trainer@way2automation.com
+2022-05-31 18:22:39,001 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: India
+2022-05-31 18:22:39,082 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Delhi
+2022-05-31 18:22:39,159 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :rahularora1985
+2022-05-31 18:22:39,235 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :asdfsdfdf
+2022-05-31 18:22:39,313 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 18:22:45,644 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Raman Arora
+2022-05-31 18:22:46,062 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711911558
+2022-05-31 18:22:46,308 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :java@way2automation.com
+2022-05-31 18:22:48,432 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: Germany
+2022-05-31 18:22:48,516 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Berlin
+2022-05-31 18:22:48,605 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :ramanarora1986
+2022-05-31 18:22:48,681 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :werwerwer
+2022-05-31 18:22:48,753 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 18:34:16,037 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Rahul Arora
+2022-05-31 18:34:16,129 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711111558
+2022-05-31 18:34:16,267 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :trainer@way2automation.com
+2022-05-31 18:34:16,327 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: India
+2022-05-31 18:34:16,441 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Delhi
+2022-05-31 18:34:16,620 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :rahularora1985
+2022-05-31 18:34:16,711 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :asdfsdfdf
+2022-05-31 18:34:16,793 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 18:34:16,793 - registration_steps.py:[56] - [INFO] - ********Inside Selected Car Test*************
+2022-05-31 18:34:24,125 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Raman Arora
+2022-05-31 18:34:24,220 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711911558
+2022-05-31 18:34:24,360 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :java@way2automation.com
+2022-05-31 18:34:26,641 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: Germany
+2022-05-31 18:34:26,741 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Berlin
+2022-05-31 18:34:26,828 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :ramanarora1986
+2022-05-31 18:34:26,907 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :werwerwer
+2022-05-31 18:34:26,979 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-05-31 18:34:26,980 - registration_steps.py:[56] - [INFO] - ********Inside Selected Car Test*************

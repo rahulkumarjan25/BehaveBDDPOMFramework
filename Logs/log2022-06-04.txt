@@ -1,0 +1,18 @@
+2022-06-04 00:17:29,055 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Rahul Arora
+2022-06-04 00:17:29,143 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711111558
+2022-06-04 00:17:29,288 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :trainer@way2automation.com
+2022-06-04 00:17:29,363 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: India
+2022-06-04 00:17:29,495 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Delhi
+2022-06-04 00:17:29,651 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :rahularora1985
+2022-06-04 00:17:29,808 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :asdfsdfdf
+2022-06-04 00:17:29,978 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-06-04 00:17:29,979 - registration_steps.py:[56] - [INFO] - ********Inside Selected Car Test*************
+2022-06-04 00:17:39,764 - BasePage.py:[34] - [INFO] - Typing in an Element: name_CSSValue Enterd as :Raman Arora
+2022-06-04 00:17:39,902 - BasePage.py:[34] - [INFO] - Typing in an Element: phone_XPATHValue Enterd as :9711911558
+2022-06-04 00:17:40,155 - BasePage.py:[34] - [INFO] - Typing in an Element: email_XPATHValue Enterd as :java@way2automation.com
+2022-06-04 00:17:42,303 - BasePage.py:[49] - [INFO] - Selecting from an Element: country_XPATHValue selected as: Germany
+2022-06-04 00:17:42,387 - BasePage.py:[34] - [INFO] - Typing in an Element: city_XPATHValue Enterd as :Berlin
+2022-06-04 00:17:42,471 - BasePage.py:[34] - [INFO] - Typing in an Element: username_XPATHValue Enterd as :ramanarora1986
+2022-06-04 00:17:42,551 - BasePage.py:[34] - [INFO] - Typing in an Element: password_XPATHValue Enterd as :werwerwer
+2022-06-04 00:17:42,624 - BasePage.py:[25] - [INFO] - Clicking on an Element: submit_XPATH
+2022-06-04 00:17:42,625 - registration_steps.py:[56] - [INFO] - ********Inside Selected Car Test*************
